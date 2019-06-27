@@ -2,3 +2,4 @@
 data/
 udacity_dl/notebooks/notMNIST_large*
 udacity_dl/notebooks/notMNIST_small*
+*.pickle
